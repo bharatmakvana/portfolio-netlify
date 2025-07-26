@@ -3,14 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bharatmakvana.github.io/",
+  "homepage": "/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "predeploy": "npm run build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist -b main -r git@github.com:bharatmakvana/bharatmakvana.github.io.git"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
