@@ -2,8 +2,8 @@
 
 This is a **personal portfolio website** built using [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Vite](https://vitejs.dev/). It showcases your work, skills, and contact information in a modern, performant way.
 
-- 🔗 **Live Site**: [https://bharatmakvana.github.io](https://bharatmakvana.github.io)  
-- 📁 **GitHub Repo**: [https://github.com/bharatmakvana/portfolio](https://github.com/bharatmakvana/portfolio)
+- 🔗 **Live Site**: [https://bharat-makwana.netlify.app/](https://bharat-makwana.netlify.app/)  
+- 📁 **GitHub Repo**: [https://github.com/bharatmakvana/portfolio-netlify](https://github.com/bharatmakvana/portfolio-netlify)
 
 ---
 
@@ -19,7 +19,7 @@ This is a **personal portfolio website** built using [React](https://reactjs.org
 - 💡 TypeScript support
 - 🎨 Responsive and accessible design
 - 📂 Easy-to-maintain structure
-- 🌐 Deployed on GitHub Pages
+- 🌐 Deployed on Netlify
 
 ---
 
@@ -29,7 +29,7 @@ This is a **personal portfolio website** built using [React](https://reactjs.org
 - TypeScript
 - Vite
 - CSS Modules / Tailwind (if used)
-- GitHub Pages (for deployment)
+- Netlify (for deployment)
 
 ---
 
@@ -57,15 +57,11 @@ This is a **personal portfolio website** built using [React](https://reactjs.org
 
 ---
 
-## 🚀 Deployment (GitHub Pages)
+## 🚀 Deployment 
   ```bash
-  npm install gh-pages --save-dev
+  npm run build
 
- // and finally Deploy the app using following command.
-
-  npm run deploy
   ```
-
 ---
 
 ## 📄 License
